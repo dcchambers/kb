@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Dakota's public knowledge base/wiki of useful and useless things.
