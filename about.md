@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-Dakota's public knowledge base/wiki of useful and useless things.
+A collection of notes, lists, and knowledge that I find useful. Maybe you will too.
