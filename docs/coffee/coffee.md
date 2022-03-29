@@ -22,4 +22,5 @@ permalink: /docs/coffee
 <!-- references -->
 
 [Hario]:https://www.hario-usa.com/
-[Kalita]:http://kalita.ae/
+[Kalita]:https://kalita.org/
+
