@@ -22,7 +22,7 @@ title: Dakota's kb
 email: dakotachambers@gmail.com
 description: Dakota's public knowledge base/wiki of useful and useless things.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kb.chambers.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dakotachambers
 github_username:  dcchambers
 
