@@ -56,4 +56,10 @@ plugins:
 #   - vendor/ruby/
 
 # just-the-docs configuration
+
 search_enabled: true
+# Aux links for the upper right navigation
+aux_links:
+  "chambers.io":
+    - "https://chambers.io"
+aux_links_new_tab: true
