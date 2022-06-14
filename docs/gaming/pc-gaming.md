@@ -21,6 +21,7 @@ permalink: /docs/gaming/pc-gaming
 - [SteamCharts](https://steamcharts.com/)
 - [SteamSpy](https://steamspy.com/)
 - [ProtonDB](https://www.protondb.com/)
+- [Augmented Steam Browser Extension](https://augmentedsteam.com/)
 
 ### Other Resources
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
