@@ -26,4 +26,5 @@ permalink: /docs/gaming/pc-gaming
 ### Other Resources
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 - [Is There Any Deal](https://isthereanydeal.com/)
+- [gg.deals](https://gg.deals/)
 - [How Long to Beat](https://howlongtobeat.com/)
