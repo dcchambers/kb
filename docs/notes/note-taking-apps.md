@@ -13,3 +13,8 @@ A comparison of some popular note taking applications. Focus is on MacOS/Linux d
 |Bear|Mac, iOS| ✅ | ✅ | ❌ | ✅ |https://bear.app/|
 |Notion|Web, Desktop, Mobile| ✅ | 🟨 | ❌ | 🟨 |https://www.notion.so/|
 |Obsidian|Desktop, Mobile| ✅ | ✅ | 🟨 | ✅ |https://obsidian.md/|
+
+## To Be Categorized
+
+- Coda
+- Roam
