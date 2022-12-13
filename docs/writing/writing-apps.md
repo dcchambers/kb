@@ -14,3 +14,8 @@ A comparison of some popular document writing applications. Think of these as co
 |iA Writer|Mac, Windows, Android, iOS| ❌ | ✅ |https://ia.net/|
 |Scrivener|Mac, Windows, iOS| ❌ | ✅ |https://www.literatureandlatte.com/scrivener/|
 |Ulysses|Mac, iOS| ❌ | ✅ |https://ulysses.app/|
+
+## To be categorized
+
+- [Caret](https://caret.io) (Discontinued)
+- [Nota](https://nota.md)
