@@ -18,3 +18,14 @@ A comparison of some popular note taking applications. Focus is on MacOS/Linux d
 
 - Coda
 - Roam
+- logseq
+- Craft
+- Agenda
+- Remnote
+- NotePlan
+- Keep
+- OneNote
+- Evernote
+- Amplenote
+- Tana
+- Nimbus Note
