@@ -29,3 +29,4 @@ A comparison of some popular note taking applications. Focus is on MacOS/Linux d
 - Amplenote
 - Tana
 - Nimbus Note
+- [Inkdrop](https://www.inkdrop.app/)

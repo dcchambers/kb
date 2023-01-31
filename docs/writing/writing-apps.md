@@ -18,4 +18,5 @@ A comparison of some popular document writing applications. Think of these as co
 ## To be categorized
 
 - [Caret](https://caret.io) (Discontinued)
+- [Inkdrop](https://www.inkdrop.app/)
 - [Nota](https://nota.md)
