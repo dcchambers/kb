@@ -30,3 +30,5 @@ A comparison of some popular note taking applications. Focus is on MacOS/Linux d
 - Tana
 - Nimbus Note
 - [Inkdrop](https://www.inkdrop.app/)
+- [Era](https://era.sh)
+- [Drafts](https://getdrafts.com)
