@@ -23,8 +23,12 @@ permalink: /docs/gaming/pc-gaming
 - [ProtonDB](https://www.protondb.com/)
 - [Augmented Steam Browser Extension](https://augmentedsteam.com/)
 
-### Other Resources
-- [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
+### Deal and Price Tracking
+
 - [Is There Any Deal](https://isthereanydeal.com/)
 - [gg.deals](https://gg.deals/)
+- [CheapShark](https://www.cheapshark.com/)
+
+### Other Resources
+- [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 - [How Long to Beat](https://howlongtobeat.com/)
