@@ -22,6 +22,7 @@ permalink: /docs/gaming/pc-gaming
 - [SteamSpy](https://steamspy.com/)
 - [ProtonDB](https://www.protondb.com/)
 - [Augmented Steam Browser Extension](https://augmentedsteam.com/)
+- [Steam 250](https://steam250.com/)
 
 ### Deal and Price Tracking
 
