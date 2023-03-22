@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Deployment Tools
+parent: CI/CD
 permalink: /docs/cicd/deployment-tools
 ---
 

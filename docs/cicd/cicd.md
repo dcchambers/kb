@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Continuous Integration and Continuous Delivery
+title: CI/CD
+has_children: true
 permalink: /docs/cicd
 ---
 
