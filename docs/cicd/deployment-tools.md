@@ -17,6 +17,8 @@ Many of these companies offer more than just deployment tooling as well.
 ## To-be Categorized/Sorted
 
 - [Argo](https://argoproj.github.io/)
+- [Capistrano](https://capistranorb.com/)
+- [CapRover](https://caprover.com/)
 - [fly.io](https://fly.io)
 - [Heroku](https://www.heroku.com/)
 - [MRSK](https://mrsk.dev/)
@@ -24,3 +26,10 @@ Many of these companies offer more than just deployment tooling as well.
 - [Spinnaker](https://spinnaker.io/)
 - [Vercel](https://vercel.com/)
 - [Waypoint](https://www.waypointproject.io/)
+
+## Out of Scope
+
+- General purpose CI, workflow automation, and script runners are currently excluded from this list.
+
+For example, [GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/), Jenkins, Travis, CircleCI, Drone CI, etc. These are all technically capable of being used to deploy software but they require external scipts or tools to do so.
+
