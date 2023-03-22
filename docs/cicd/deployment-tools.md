@@ -20,6 +20,7 @@ Many of these companies offer more than just deployment tooling as well.
 - [Capistrano](https://capistranorb.com/)
 - [CapRover](https://caprover.com/)
 - [fly.io](https://fly.io)
+- [Harness](https://www.harness.io/)
 - [Heroku](https://www.heroku.com/)
 - [MRSK](https://mrsk.dev/)
 - [Netlify](https://www.netlify.com/)
