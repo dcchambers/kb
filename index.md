@@ -5,6 +5,6 @@
 layout: home
 ---
 
-Dakota's public knowledge base/wiki of useful and useless things.
+**Welcome!** This place is half 🧠 knowledge base/wiki, and half 🌱 digital garden.
 
-:arrow_left: Check it out.
+Enjoy your stay.
