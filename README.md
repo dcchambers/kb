@@ -17,6 +17,6 @@ Published at: [kb.chambers.io](https://kb.chambers.io)
 1. Run:
     ```
     bundle install
-    bundle exec jekyll s
+    bundle exec jekyll s --livereload
     ```
 2. Go to http://127.0.0.1:4000/ in your browser.

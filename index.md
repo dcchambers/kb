@@ -7,4 +7,7 @@ layout: home
 
 **Welcome!** This place is half 🧠 knowledge base/wiki, and half 🌱 digital garden.
 
+It is a slowly growing collection of notes, lists, and knowledge that I find useful.
+Maybe you will too.
+
 Enjoy your stay.

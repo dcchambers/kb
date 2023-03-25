@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tools
+parent: DIY
 permalink: /docs/diy/tools
 ---
 
