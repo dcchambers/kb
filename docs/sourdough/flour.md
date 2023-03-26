@@ -2,7 +2,7 @@
 layout: page
 title: Flour
 permalink: /docs/sourdough/flour
-parents: Sourdough
+parent: Sourdough
 last_updated: 2023-03-25
 ---
 
