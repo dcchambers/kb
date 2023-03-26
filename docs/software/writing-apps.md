@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writing Apps
-permalink: /docs/writing/writing-apps
+permalink: /docs/software/writing-apps
 ---
 
 # Writing Apps

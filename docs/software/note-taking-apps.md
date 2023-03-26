@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Note Taking Apps
-permalink: /docs/notes/note-taking-apps
+permalink: /docs/software/note-taking-apps
 ---
 
 # Note Taking Apps
