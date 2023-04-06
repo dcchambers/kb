@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Runnign Gear
+title: Running Gear
 permalink: /docs/running/gear
 parent: Running
 last_updated: 2023-04-05
