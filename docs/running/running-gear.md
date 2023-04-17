@@ -40,3 +40,4 @@ Sorted alphabetically. Stars next to my personal favorites.
 - [Salomon](https://www.salomon.com/en-us/shop/men/accessories/headwear.html)
 - [Sprints](https://getsprints.com/)
 - [Territory Run Co.](https://territoryrun.co/collections/hats-accessories)
+- [VAGA](https://www.teamvaga.co.uk/)
