@@ -19,6 +19,7 @@ Sorted alphabetically. Stars next to my personal favorites.
 - [Adidas](https://www.adidas.com/us/running-hats)
 - [All Day Running Co](https://www.alldayrunningco.com/collections/all-gear)
 - [Alter Ego Running](https://alteregorunning.com/)
+- [Bandit Running](https://banditrunning.com/collections/headwear)
 - [Boco Gear](https://bocogear.com/boco-hats/running-hat/)
 - [Brooks](https://www.brooksrunning.com/en_us/unisex-accessories-hats/)
 - [Buff](https://www.buff.com/us/headwear/caps/running-caps.html)
