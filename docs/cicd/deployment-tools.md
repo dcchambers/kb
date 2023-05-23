@@ -14,19 +14,24 @@ Includes tools that focus on frontend website deployment (eg Vercel/Netlify) and
 
 Many of these companies offer more than just deployment tooling as well.
 
-## To-be Categorized/Sorted
+## Deploy To Other Platforms/Servers
 
 - [Argo](https://argoproj.github.io/)
 - [Capistrano](https://capistranorb.com/)
+- [MRSK](https://mrsk.dev/)
+- [Spinnaker](https://spinnaker.io/)
+- [Waypoint](https://www.waypointproject.io/)
+
+## All-in-one Platforms (eg Heroku-like)
+
 - [CapRover](https://caprover.com/)
 - [fly.io](https://fly.io)
 - [Harness](https://www.harness.io/)
 - [Heroku](https://www.heroku.com/)
-- [MRSK](https://mrsk.dev/)
 - [Netlify](https://www.netlify.com/)
-- [Spinnaker](https://spinnaker.io/)
+- [Railway](https://railway.app/)
+- [Render](https://render.com/)
 - [Vercel](https://vercel.com/)
-- [Waypoint](https://www.waypointproject.io/)
 
 ## Out of Scope
 
