@@ -3,7 +3,7 @@ layout: page
 title: Baking Resources
 permalink: /docs/sourdough/baking-resources
 parent: Sourdough
-last_updated: 2023-03-25
+last_updated: 2023-05-24
 ---
 
 # Baking Resources
