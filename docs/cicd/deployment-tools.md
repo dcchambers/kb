@@ -18,6 +18,7 @@ Many of these companies offer more than just deployment tooling as well.
 
 - [Argo](https://argoproj.github.io/)
 - [Capistrano](https://capistranorb.com/)
+- [Dagger](https://dagger.io/)[^1]
 - [MRSK](https://mrsk.dev/)
 - [Spinnaker](https://spinnaker.io/)
 - [Waypoint](https://www.waypointproject.io/)
@@ -39,3 +40,4 @@ Many of these companies offer more than just deployment tooling as well.
 
 For example, [GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/), Jenkins, Travis, CircleCI, Drone CI, etc. These are all technically capable of being used to deploy software but they require external scipts or tools to do so.
 
+[^1]: Dagger is not really a *deployment* tool but rather a complete engine for defining and running CI/CD pipelines in code.
