@@ -26,6 +26,7 @@ Many of these companies offer more than just deployment tooling as well.
 ## All-in-one Platforms (eg Heroku-like)
 
 - [CapRover](https://caprover.com/)
+- [Deno Deploy](https://deno.com/deploy)
 - [fly.io](https://fly.io)
 - [Harness](https://www.harness.io/)
 - [Heroku](https://www.heroku.com/)
