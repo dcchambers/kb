@@ -5,7 +5,7 @@ has_children: false
 permalink: /mac/macos
 ---
 
-# MacoS
+# MacOS
 
 ## Random MacOS Tips and Tricks
 
