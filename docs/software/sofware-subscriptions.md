@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software Subscriptions
+parent: Software
 permalink: /docs/software/software-subscriptions
 last_updated: 2023-06-14
 ---

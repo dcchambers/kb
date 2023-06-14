@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Writing Apps
+parent: Software
 permalink: /docs/software/writing-apps
 ---
 

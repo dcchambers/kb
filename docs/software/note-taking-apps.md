@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Note Taking Apps
+parent: Software
 permalink: /docs/software/note-taking-apps
 ---
 
