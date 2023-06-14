@@ -12,6 +12,11 @@ last_updated: 2023-06-14
 *Happy Hacking Keyboard*
 
 - [hhkb.io](https://hhkb.io/)
+- [Official Website](https://hhkeyboard.us/)
+
+## Bespoke and High-End
+
+- https://shop.norbauer.com/
 
 ## Things to read.
 
