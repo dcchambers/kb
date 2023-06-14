@@ -2,7 +2,7 @@
 layout: page
 title: Deployment Tools
 parent: CI/CD
-permalink: /docs/cicd/deployment-tools
+permalink: /docs/software-engineering/devops/cicd/deployment-tools
 ---
 
 # Deployment Tools
