@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interesting Software Companies
+parent: Software Engineering
 permalink: /docs/software-engineering/interesting-software-companies
 ---
 

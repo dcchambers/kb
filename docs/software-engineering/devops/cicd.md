@@ -2,7 +2,7 @@
 layout: page
 title: CI/CD
 parent: DevOps
-has_children: true
+grand_parent: Software Engineering
 permalink: /docs/software-engineering/devops/cicd
 ---
 
