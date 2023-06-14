@@ -6,7 +6,7 @@ permalink: /docs/software/note-taking-apps
 
 # Note Taking Apps
 
-A comparison of some popular note taking applications. Focus is on MacOS/Linux desktop apps and markdown-compatible apps.
+A comparison of some popular PKM and note taking applications. Focus is on MacOS/Linux desktop apps and markdown-compatible apps.
 
 |App |Platform|Free Tier Available?|Uses Markdown?|Git backup?|Wikilinks/File Linking|Website|
 |--- |--------|--------------------|--------------|-----------|----------------------|-------|
@@ -34,3 +34,4 @@ A comparison of some popular note taking applications. Focus is on MacOS/Linux d
 - [Drafts](https://getdrafts.com)
 - (Standard Notes)[https://standardnotes.com/]
 - Loop
+- [Tana](https://tana.inc/)
