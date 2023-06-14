@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deployment Tools
-parent: CI/CD
+parent: DevOps
 grand_parent: Software Engineering
 permalink: /docs/software-engineering/devops/deployment-tools
 ---
