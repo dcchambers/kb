@@ -41,6 +41,7 @@ A big enough group to have it's own subcategory.
 
 Software I am thinking about paying for.
 
+- [Excalidraw+](https://plus.excalidraw.com/) - Excalidraw is an incredible free tool already - definitely interested in some of the premium features.
 - [Obsidian](https://obsidian.md) - After exploring free options for publishing obsidian notes, am exploring the option of migrating to a paid Obsidian publish account for my public kb/wiki/digital garden. The combination of writing in markdown and seemless wikilink experience is what sells it for me.
 
 ## Expired
