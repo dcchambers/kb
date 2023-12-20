@@ -1,8 +1,10 @@
 # kb
 
-> [!WARNING]
-> Slowly moving these notes over to https://publish.obsidian.md/dakota/ as I prefer using Obsidian for taking notes now.
-> This repository will be archived soon.
+> [!NOTE]
+> These notes have been moved to Obsidian and are published via Obsidian Publish.
+> They are now available here: https://publish.obsidian.md/dakota
+>
+> This repo was archived on 20 December 2023.
 
 ---
 
