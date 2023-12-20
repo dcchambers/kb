@@ -1,5 +1,10 @@
 # kb
 
+> [!WARNING]
+> Slowly moving these notes over to https://publish.obsidian.md/dakota/
+
+---
+
 This is my public knowledge base/wiki/digital garden.
 
 It's a growing collection of notes, lists, and knowledge that I find useful.
